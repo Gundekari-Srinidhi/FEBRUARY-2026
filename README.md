@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
 | ------- |
