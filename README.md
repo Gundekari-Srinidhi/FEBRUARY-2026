@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0205-isomorphic-strings) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## String
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0205-isomorphic-strings) |
 | [0709-to-lower-case](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0709-to-lower-case) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [3019-number-of-changing-keys](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3019-number-of-changing-keys) |
