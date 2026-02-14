@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0264-ugly-number-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2652-sum-multiples) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0264-ugly-number-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Sliding Window
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0205-isomorphic-strings) |
+| [0264-ugly-number-ii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0264-ugly-number-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1156-swap-for-longest-repeated-character-substring) |
 ## String
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1486-xor-operation-in-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1486-xor-operation-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
