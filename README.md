@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3024-type-of-triangle](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0264-ugly-number-ii) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
