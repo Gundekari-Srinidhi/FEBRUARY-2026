@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1234-replace-the-substring-for-balanced-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0709-to-lower-case) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [3019-number-of-changing-keys](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3019-number-of-changing-keys) |
 ## Bit Manipulation
 |  |
