@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1052-grumpy-bookstore-owner) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3024-type-of-triangle) |
 ## Math
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3024-type-of-triangle) |
+## Matrix
+|  |
+| ------- |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
