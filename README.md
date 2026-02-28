@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1052-grumpy-bookstore-owner) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
+| [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -80,9 +82,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
 | [3024-type-of-triangle](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
