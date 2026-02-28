@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1052-grumpy-bookstore-owner) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
 | [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0264-ugly-number-ii) |
 ## Sorting
 |  |
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
