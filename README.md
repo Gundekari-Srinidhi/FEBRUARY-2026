@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1052-grumpy-bookstore-owner) |
+| [1390-four-divisors](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1390-four-divisors) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/3024-type-of-triangle) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0264-ugly-number-ii) |
+| [1390-four-divisors](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/2652-sum-multiples) |
