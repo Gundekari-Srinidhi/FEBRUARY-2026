@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
 | [0220-contains-duplicate-iii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0239-sliding-window-maximum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0264-ugly-number-ii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0205-isomorphic-strings) |
 | [0709-to-lower-case](https://github.com/Gundekari-Srinidhi/FEBRUARY-2026/tree/master/0709-to-lower-case) |
